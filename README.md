@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Retrograde. 👋
 
 <!--
 **retr0gr4d3/retr0gr4d3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
