@@ -4,6 +4,8 @@
 </div>
 <div align="center">
 
+![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)
+
 ```
                        ::::::::::::::::::::..                       
                    ::::::::::::::::::::::::::::                     
@@ -37,8 +39,11 @@
   ::                                          ::.                   
  ::                                                                 
 ```
-  
+
+![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)
 </div>
+
+
 
 <!--
 **retr0gr4d3/retr0gr4d3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
