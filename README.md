@@ -2,17 +2,17 @@
 + RETROGRADE 043 (CALIBRATION) + RETROGRADE 043 (CALIBRATION) + RETROGRADE 043 (CALIBRATION) +
 / PROJECTS / TOOLS / ORIENTATION /                            / CAREER / REGISTRY / MANIFEST /
 ==============================================================================================
-[###]  CODEX INITIALIZED                                CAS.REGISTRY
-       <LOG SYNC @GITHUB.REG.SESSION>
-       +----------------[ MODULE SHELL ]----------------+
-       |  (::::)  ::::::::  ::  ::::  ::  ::  ::  ::  :: |
-       |  ::::::  ::  ::  ::::::  ::  ::  ::  ::  ::  :: |
-       +---------------------+----------------------------+
-
+[###]  CODEX INITIALIZED                                                          CAS.REGISTRY
+                                                                <LOG SYNC @GITHUB.REG.SESSION>
+             +----------------[ MODULE SHELL ]----------------+
+             |  (::::)  ::::::::  :: ::::  ::  ::  ::  ::  :: |
+             |  ::::::  ::  ::  :::::: ::  ::  ::  ::  ::  :: |
+             +----------+-------------------------------------+
+                        |
 CONSTRUCT: NMGW.REG     |  BUILDS LOG
 MODIFIER: POLY+WIN      |  OPEN SOURCE, TOOLS, AND EXPERIMENTS
 UPLINK: GITHUB.STATIC   |  retr0gr4d3.github.tree.access  -  -:-  -.-  -:-  -.-  -
-.88 .22 .REG .SESSION   |  ===================================================================
+.88 .22 .REG .SESSION   |  ==============================================================================
           _____         |  RETROGRADE REGISTRY                        v.2026.4.r0 
          /\    \        |  ACTIVE MODULES; PUBLIC REPO MANIFEST (AUTO)
         /::\    \       |
@@ -21,8 +21,8 @@ UPLINK: GITHUB.STATIC   |  retr0gr4d3.github.tree.access  -  -:-  -.-  -:-  -.- 
      /:::/\:::\    \    |  * ERRT       ELDEN RING REGULATION.BIN VIEW / EDIT / MERGE (C#)
     /:::/__\:::\    \   |  * KICKROCSS              THE CSS BEHIND RETROGRADE.ORG.UK (CSS)
    /::::\   \:::\    \  |
-  /::::::\   \:::\    \ |
- /:::/\:::\   \:::\____\|
+  /::::::\   \:::\    \ |  THE CHANNEL LISTS A SMALL SLICE OF WHAT SHIPS. KEYWORDS IN
+ /:::/\:::\   \:::\____\|  CAPS ARE THE MODULE NAMES. USE THE LINK ROW BELOW FOR HREFS.
 /:::/  \:::\   \:::|    |
 \::/   |::::\  /:::|____|
  \/____|:::::\/:::/    /|
@@ -30,10 +30,10 @@ UPLINK: GITHUB.STATIC   |  retr0gr4d3.github.tree.access  -  -:-  -.-  -:-  -.- 
        |::|\::::/    /  |
        |::| \::/____/   |
        |::|  ~|         |
-       |::|   |         |
-       \::|   |         |
+       |::|   |         |  
+       \::|   |         |  
         \:|   |         |
-         \|___|         |  ===================================================================
+         \|___|         |  ==============================================================================
 ==============================================================================================
 / PROJECTS / TOOLS / ORIENTATION /                            / CAREER / REGISTRY / MANIFEST /
 + RETROGRADE 043 (CALIBRATION) + RETROGRADE 043 (CALIBRATION) + RETROGRADE 043 (CALIBRATION) +
