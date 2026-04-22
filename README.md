@@ -21,31 +21,24 @@ UPLINK: GITHUB.STATIC   |  retr0gr4d3.github.tree.access  -  -:-  -.-  -:-  -.- 
                         |
                         |  * NMGW  NO MORE GLASS WINDOWS; WINDOWS PRIVACY / TELEMETRY (C#)
                         |  * DOCUTRON  STATIC DOCS: MARKDOWN+YAML, MANIFEST, ANYWHERE (JS)
-                        |  * ERRT  ELDEN RING REGULATION.BIN VIEW / EDIT / MERGE (C#)
-                        |  * ELDENRING-SM-WINUI3  SAVE MGR REWRITTEN TO .NET / WinUI3
-                        |  * KICKROCSS  THE CSS BEHIND RETROGRADE.ORG.UK
-                        |  * FORGE-NEO-ANIMA-FREEZE  FORGE, FROZEN AT ANIMA (PYTHON)
-                        |  * XDS  2DS / 3DS / XL N-FAMILY STASH AND TOOLS
+                        |  * ERRT       ELDEN RING REGULATION.BIN VIEW / EDIT / MERGE (C#)
+                        |  * KICKROCSS              THE CSS BEHIND RETROGRADE.ORG.UK (CSS)
+                        |  
                         |  ===============================================================================
 ===============================================================================
 / PROJECTS / TOOLS / ORIENTATION /         / CAREER / REGISTRY / MANIFEST /
 + RETROGRADE 043 (CALIBRATION) + RETROGRADE 043 (CALIBRATION) + RETROGRADE 043
 ```
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/retr0gr4d3/NMGW">NMGW</a>
   &nbsp;|&nbsp;
   <a href="https://github.com/retr0gr4d3/docutron">docutron</a>
   &nbsp;|&nbsp;
   <a href="https://github.com/retr0gr4d3/ERRT">ERRT</a>
   &nbsp;|&nbsp;
-  <a href="https://github.com/retr0gr4d3/EldenRing-SM-WinUI3">EldenRing-SM-WinUI3</a>
-  &nbsp;|&nbsp;
   <a href="https://github.com/retr0gr4d3/KickRoCSS">KickRoCSS</a>
   &nbsp;|&nbsp;
-  <a href="https://github.com/retr0gr4d3/forge-neo-anima-freeze">forge-neo-anima-freeze</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/retr0gr4d3/XDS">XDS</a>
 </div>
 
 <!--
