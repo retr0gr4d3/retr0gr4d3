@@ -1,7 +1,7 @@
 ```text
 + RETROGRADE 043 (CALIBRATION) + RETROGRADE 043 (CALIBRATION) + RETROGRADE 043
 / PROJECTS / TOOLS / ORIENTATION /         / CAREER / REGISTRY / MANIFEST /
-==========================================================================================================
+===============================================================================
 [###]  CODEX INITIALIZED                                CAS.REGISTRY
        <LOG SYNC @GITHUB.REG.SESSION>
        +----------------[ MODULE SHELL ]----------------+
@@ -27,7 +27,7 @@ UPLINK: GITHUB.STATIC   |  retr0gr4d3.github.tree.access  -  -:-  -.-  -:-  -.- 
                         |  * FORGE-NEO-ANIMA-FREEZE  FORGE, FROZEN AT ANIMA (PYTHON)
                         |  * XDS  2DS / 3DS / XL N-FAMILY STASH AND TOOLS
                         |  ===============================================================================
-==========================================================================================================
+===============================================================================
 / PROJECTS / TOOLS / ORIENTATION /         / CAREER / REGISTRY / MANIFEST /
 + RETROGRADE 043 (CALIBRATION) + RETROGRADE 043 (CALIBRATION) + RETROGRADE 043
 ```
