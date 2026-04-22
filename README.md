@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)
+![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)
 
 ```
                        ::::::::::::::::::::..                       
@@ -40,7 +40,7 @@
  ::                                                                 
 ```
 
-![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)
+![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)![Red Text](https://placehold.co/100x20/000000/FF0000/svg?text=RETROGRADE)
 </div>
 
 
