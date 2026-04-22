@@ -16,14 +16,14 @@ UPLINK: GITHUB.STATIC   |  retr0gr4d3.github.tree.access  -  -:-  -.-  -:-  -.- 
                         |  RETROGRADE REGISTRY                        v.2026.4.r0
                         |  ACTIVE MODULES; PUBLIC REPO MANIFEST (AUTO)
                         |
+                        |  * NMGW                         WINDOWS PRIVACY / TELEMETRY (C#)
+                        |  * DOCUTRON               MARKDOWN+YAML, MANIFEST, ANYWHERE (JS)
+                        |  * ERRT       ELDEN RING REGULATION.BIN VIEW / EDIT / MERGE (C#)
+                        |  * KICKROCSS              THE CSS BEHIND RETROGRADE.ORG.UK (CSS)
+                        |
                         |  THE CHANNEL LISTS A SMALL SLICE OF WHAT SHIPS. KEYWORDS IN
                         |  CAPS ARE THE MODULE NAMES. USE THE LINK ROW BELOW FOR HREFS.
                         |
-                        |  * NMGW  NO MORE GLASS WINDOWS; WINDOWS PRIVACY / TELEMETRY (C#)
-                        |  * DOCUTRON  STATIC DOCS: MARKDOWN+YAML, MANIFEST, ANYWHERE (JS)
-                        |  * ERRT       ELDEN RING REGULATION.BIN VIEW / EDIT / MERGE (C#)
-                        |  * KICKROCSS              THE CSS BEHIND RETROGRADE.ORG.UK (CSS)
-                        |  
                         |  ===============================================================================
 ===============================================================================
 / PROJECTS / TOOLS / ORIENTATION /         / CAREER / REGISTRY / MANIFEST /
