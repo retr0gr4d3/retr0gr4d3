@@ -12,28 +12,28 @@
 CONSTRUCT: NMGW.REG     |  BUILDS LOG
 MODIFIER: POLY+WIN      |  OPEN SOURCE, TOOLS, AND EXPERIMENTS
 UPLINK: GITHUB.STATIC   |  retr0gr4d3.github.tree.access  -  -:-  -.-  -:-  -.-  -
-.88 .22 .REG .SESSION   |  ==============================================================================
-          _____         |  RETROGRADE REGISTRY                        v.2026.4.r0 
-         /\    \        |  ACTIVE MODULES; PUBLIC REPO MANIFEST (AUTO)
-        /::\    \       |
-       /::::\    \      |  * NMGW                         WINDOWS PRIVACY / TELEMETRY (C#)
-      /::::::\    \     |  * DOCUTRON               MARKDOWN+YAML, MANIFEST, ANYWHERE (JS)
-     /:::/\:::\    \    |  * ERRT       ELDEN RING REGULATION.BIN VIEW / EDIT / MERGE (C#)
-    /:::/__\:::\    \   |  * KICKROCSS              THE CSS BEHIND RETROGRADE.ORG.UK (CSS)
-   /::::\   \:::\    \  |
-  /::::::\   \:::\    \ |  THE CHANNEL LISTS A SMALL SLICE OF WHAT SHIPS. KEYWORDS IN
- /:::/\:::\   \:::\____\|  CAPS ARE THE MODULE NAMES. USE THE LINK ROW BELOW FOR HREFS.
-/:::/  \:::\   \:::|    |
-\::/   |::::\  /:::|____|
- \/____|:::::\/:::/    /|
-       |:::::::::/    / |
-       |::|\::::/    /  |
-       |::| \::/____/   |
-       |::|  ~|         |
-       |::|   |         |  
-       \::|   |         |  
-        \:|   |         |
-         \|___|         |  ==============================================================================
+.88 .22 .REG .SESSION   |  ==============================================================================  |
+          _____         |  RETROGRADE REGISTRY                        v.2026.4.r0                          |
+         /\    \        |  ACTIVE MODULES; PUBLIC REPO MANIFEST (AUTO)                                     |
+        /::\    \       |                                                                                  |
+       /::::\    \      |  * NMGW                         WINDOWS PRIVACY / TELEMETRY (C#)                 |
+      /::::::\    \     |  * DOCUTRON               MARKDOWN+YAML, MANIFEST, ANYWHERE (JS)                 |
+     /:::/\:::\    \    |  * ERRT       ELDEN RING REGULATION.BIN VIEW / EDIT / MERGE (C#)                 |
+    /:::/__\:::\    \   |  * KICKROCSS              THE CSS BEHIND RETROGRADE.ORG.UK (CSS)                 |
+   /::::\   \:::\    \  |                                                                                  |
+  /::::::\   \:::\    \ |  THE CHANNEL LISTS A SMALL SLICE OF WHAT SHIPS. KEYWORDS IN                      |
+ /:::/\:::\   \:::\____\|  CAPS ARE THE MODULE NAMES. USE THE LINK ROW BELOW FOR HREFS.                    |
+/:::/  \:::\   \:::|    |                                                                                  |
+\::/   |::::\  /:::|____|                                                                                  |
+ \/____|:::::\/:::/    /|                                                                                  |
+       |:::::::::/    / |                                                                                  |
+       |::|\::::/    /  |                                                                                  |
+       |::| \::/____/   |                                                                                  |
+       |::|  ~|         |                                                                                  |
+       |::|   |         |                                                                                  |
+       \::|   |         |                                                                                  |
+        \:|   |         |                                                                                  |
+         \|___|         |  ==============================================================================  |
 ==============================================================================================
 / PROJECTS / TOOLS / ORIENTATION /                            / CAREER / REGISTRY / MANIFEST /
 + RETROGRADE 043 (CALIBRATION) + RETROGRADE 043 (CALIBRATION) + RETROGRADE 043 (CALIBRATION) +
