@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 780" width="900" height="780" role="img" aria-label="Retrograde terminal: projects and tools">
+  <rect width="100%" height="100%" fill="#000000"/>
+  <g fill="none" stroke="#00ff41" stroke-width="1" opacity="0.7">
+    <rect x="18" y="98" width="14" height="10"/>
+    <rect x="35" y="98" width="14" height="10"/>
+    <rect x="52" y="98" width="14" height="10"/>
+  </g>
+  <g fill="none" stroke="#00ff41" stroke-width="1.2">
+    <rect x="40" y="200" width="200" height="120" opacity="0.85"/>
+    <line x1="40" y1="232" x2="240" y2="232" opacity="0.5"/>
+    <circle cx="80" cy="210" r="4" fill="#00ff41" stroke="none"/>
+    <line x1="100" y1="256" x2="180" y2="256"/>
+    <line x1="100" y1="270" x2="180" y2="270"/>
+    <line x1="100" y1="284" x2="160" y2="284"/>
+    <polyline points="20,400 100,360 200,400 200,500 20,500 20,400" fill="none" opacity="0.5"/>
+    <line x1="20" y1="450" x2="200" y2="450" opacity="0.35"/>
+    <rect x="120" y="130" width="32" height="40" fill="none" transform="rotate(-8 136 150)"/>
+  </g>
+  <g fill="#00ff41" font-family="ui-monospace, 'Cascadia Code', 'Cascadia Mono', 'Consolas', 'Courier New', monospace">
+    <text x="8" y="18" font-size="10" letter-spacing="0.02em">+ CYBERACME 802.11 (NEURO.FILTER) + CYBERACME 802.11 (NEURO.FILTER) + CYBERACME 802.11 (NEURO.FILTER) +</text>
+    <text x="8" y="40" font-size="10">/ PROJECTS / TOOLS / ORIENTATION /</text>
+    <text x="8" y="64" font-size="10" opacity="0.85">====================================================================================</text>
+    <text x="888" y="88" font-size="9" text-anchor="end" opacity="0.75" font-weight="400">/ CAREER / REGISTRY / MANIFEST /</text>
+    <text x="280" y="120" font-size="32" font-weight="700" letter-spacing="0.2em">BUILDS LOG</text>
+    <text x="280" y="148" font-size="10" letter-spacing="0.22em">OPEN SOURCE, TOOLS, AND EXPERIMENTS</text>
+    <text x="280" y="168" font-size="9" opacity="0.7">retr0gr4d3.github.tree.access  -  -:-  -.-  -:-  -.-  -</text>
+    <text x="280" y="192" font-size="10" letter-spacing="0.08em">====================================================================================</text>
+    <text x="280" y="220" font-size="11" font-weight="700">RUNNERS' REGISTRY</text>
+    <text x="800" y="220" font-size="9" text-anchor="end" opacity="0.75">v.2026.4.r0</text>
+    <text x="280" y="238" font-size="9" opacity="0.8" letter-spacing="0.1em">ACTIVE MODULES; PUBLIC REPO MANIFEST (AUTO)</text>
+    <text x="280" y="270" font-size="10" letter-spacing="0.02em" opacity="0.9">
+      <tspan x="280" dy="0">THE CHANNEL LISTS A SMALL SLICE OF WHAT SHIPS. KEYWORDS IN CAPS ARE THE</tspan>
+      <tspan x="280" dy="14">MODULE NAMES. FOLLOW LINKS IN README FOOTER FOR HREFs.</tspan>
+    </text>
+    <text x="280" y="314" font-size="10" letter-spacing="0.02em">
+      <tspan x="280" dy="0">* NMGW  NO MORE GLASS WINDOWS; WINDOWS PRIVACY / TELEMETRY (C#)</tspan>
+      <tspan x="280" dy="14">* DOCUTRON  STATIC DOCS: MARKDOWN+YAML, MANIFEST, SHIP ANYWHERE (JS)</tspan>
+      <tspan x="280" dy="14">* ERRT  ELDEN RING REGULATION.BIN VIEW / EDIT / MERGE (C#)</tspan>
+      <tspan x="280" dy="14">* ELDENRING-SM-WINUI3  SAVE MANAGER REWRITTEN TO .NET / WinUI3</tspan>
+      <tspan x="280" dy="14">* KICKROCSS  THE CSS BEHIND RETROGRADE.ORG.UK</tspan>
+      <tspan x="280" dy="14">* FORGE-NEO-ANIMA-FREEZE  FORGE, FEATURE-FROZEN AT ANIMA (PYTHON)</tspan>
+      <tspan x="280" dy="14">* XDS  2DS / 3DS / XL N-FAMILY STASH AND TOOLS</tspan>
+    </text>
+    <text x="280" y="456" font-size="10" letter-spacing="0.08em">====================================================================================</text>
+    <text x="8" y="720" font-size="10" letter-spacing="0.02em">+ CYBERACME 802.11 (NEURO.FILTER) + CYBERACME 802.11 (NEURO.FILTER) + CYBERACME 802.11 (NEURO.FILTER) +</text>
+  </g>
+  <g fill="#00ff41" font-family="ui-monospace, 'Cascadia Code', 'Consolas', 'Courier New', monospace" font-size="8.5" opacity="0.85">
+    <text x="20" y="120">CODEX INITIALIZED</text>
+    <text x="20" y="132" font-size="7.5" opacity="0.65">&lt;LOG SYNC @GITHUB.REG.SESSION&gt;</text>
+    <text x="240" y="120" text-anchor="end" font-size="8.5" opacity="0.7">CAS.REGISTRY</text>
+  </g>
+  <g fill="#00ff41" font-family="ui-monospace, 'Cascadia Code', 'Consolas', 'Courier New', monospace" font-size="8.5" opacity="0.75" letter-spacing="0.04em">
+    <text x="20" y="520">CONSTRUCT: NMGW.REG</text>
+    <text x="20" y="535">MODIFIER: POLY+WIN</text>
+    <text x="20" y="550">UPLINK: GITHUB.STATIC</text>
+  </g>
+  <g fill="none" stroke="#00ff41" stroke-width="0.9" opacity="0.4">
+    <line x1="20" y1="580" x2="40" y2="560"/>
+    <line x1="40" y1="600" x2="70" y2="570"/>
+    <line x1="20" y1="600" x2="50" y2="570"/>
+  </g>
+  <g fill="none" stroke="#00ff41" stroke-width="0.8" opacity="0.5">
+    <path d="M 230 560 L 250 550 L 250 600 L 230 590 Z"/>
+  </g>
+  <g fill="none" stroke="#00ff41" stroke-width="0.6" opacity="0.5">
+    <line x1="20" y1="600" x2="30" y2="600"/>
+    <line x1="20" y1="600" x2="20" y2="610"/>
+  </g>
+</svg>
