@@ -13,7 +13,7 @@ CONSTRUCT: NMGW.REG     |  BUILDS LOG
 MODIFIER: POLY+WIN      |  OPEN SOURCE, TOOLS, AND EXPERIMENTS
 UPLINK: GITHUB.STATIC   |  retr0gr4d3.github.tree.access  -  -:-  -.-  -:-  -.-  -
 .88 .22 .REG .SESSION   |  ==============================================================================  |
-          _____         |  RETROGRADE REGISTRY                                                v.2026.4.r0  |
+          _____         |  RETROGRADE REGISTRY                                                v.2026.5.r1  |
          /\    \        |  ACTIVE MODULES; PUBLIC REPO MANIFEST (AUTO)                                     |
         /::\    \       |                                                                                  |
        /::::\    \      |  * NMGW                                        WINDOWS PRIVACY / TELEMETRY (C#)  |
