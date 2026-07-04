@@ -19,7 +19,7 @@ UPLINK: GITHUB.STATIC   |  retr0gr4d3.github.tree.access  -  -:-  -.-  -:-  -.- 
        /::::\    \      |  * NMGW                                        WINDOWS PRIVACY / TELEMETRY (C#)  |
       /::::::\    \     |  * DOCUTRON                              MARKDOWN+YAML, MANIFEST, ANYWHERE (JS)  |
      /:::/\:::\    \    |  * ERRT                      ELDEN RING REGULATION.BIN VIEW / EDIT / MERGE (C#)  |
-    /:::/__\:::\    \   |  * INFINITY-ATMM                  AQWORLDS: INFINITY MOD MENU / TEST TOOLS (C#)  |
+    /:::/__\:::\    \   |  * INFINITY-BEYOND         AQWORLDS: INFINITY BOT CLIENT / ACCOUNT MANAGER (C#)  |
    /::::\   \:::\    \  |                                                                                  |
   /::::::\   \:::\    \ |                                                                                  |
  /:::/\:::\   \:::\____\|                                                                                  |
@@ -45,7 +45,7 @@ UPLINK: GITHUB.STATIC   |  retr0gr4d3.github.tree.access  -  -:-  -.-  -:-  -.- 
   &nbsp;|&nbsp;
   <a href="https://github.com/retr0gr4d3/ERRT">ERRT</a>
   &nbsp;|&nbsp;
-  <a href="https://github.com/retr0gr4d3/Infinity-ATMM">AQW:Infinity Mod Menu</a>
+  <a href="https://github.com/retr0gr4d3/Infinity-Beyond">AQW:Infinity Client</a>
   &nbsp;|&nbsp;
 </div>
 
